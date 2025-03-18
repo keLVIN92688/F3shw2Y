@@ -41,7 +41,6 @@ if (NOT SOAPY_SDR_EXTVER)
         string(SUBSTRING "${GITHASH}" 0 8 GITHASH)
         set(SOAPY_SDR_EXTVER "g${GITHASH}")
     else (GITHASH)
-        set(SOAPY_SDR_EXTVER "unknown")
     endif (GITHASH)
 endif()
 
