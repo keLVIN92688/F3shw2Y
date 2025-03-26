@@ -34,7 +34,6 @@ plugins:
       - BUG
 
   phpcodesniffer:
-    enabled: true
     config:
       standard: "Symfony2"
       file_extensions: "php"
