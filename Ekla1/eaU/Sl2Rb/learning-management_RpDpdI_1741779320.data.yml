@@ -81,7 +81,6 @@ exclude_patterns:
   - public/main/template/
   - public/main/lang/
   - public/libs/
-  - public/img/
   - public/plugin/buycourses/src/Culqi/
   - public/plugin/buycourses/src/Requests/
   - public/plugin/buycourses/src/Requests.php
